@@ -1,0 +1,194 @@
+= Building a local linux audio community
+:customcss: workshop.css
+:linkattrs:
+
+Open Source Audio Meeting Cologne
+
+link:https://github.com/danielappelt[Daniel Appelt, window="_blank"] / 2017-05-18
+
+[NOTE.speaker]
+--
+* show organization of specific meeting / give inspiration / gather feedback
+* About me.. linux audio (2011), LAC (2013), OSAMC (Jan 2016)
+* IT guy / also involved in other community projects
+--
+
+
+== Open Source Audio Meeting Cologne
+// https://www.flickr.com/photos/john/
+image::https://c1.staticflickr.com/4/3544/3305527468_9cdef002bb_o.jpg[background, size=cover]
+
+[.step]
+* a monthly gathering of audio and free software enthusiasts
+* first meeting in June 2014
+* usually between 5 to 10 people
+* program is the result of a collaborative effort
+
+[NOTE.speaker]
+--
+* every 3rd Wednesday in a month -> plan ahead
+* started by Nils Hilbrich / still organizer
+* On special occasions, more people will attend
+* Cologne: what's special? / media industry / public broadcasting / university
+--
+
+
+== Organization of meetings
+// https://www.flickr.com/photos/minidriver/
+image::https://c1.staticflickr.com/1/125/386692558_eb357c3d78_o.jpg[background, size=cover]
+//image::https://c1.staticflickr.com/4/3569/3452943573_4141178344_o.jpg[background, size=cover]
+
+[.step]
+* more or less fixed agenda
+* low-tech approach to incorporate community input
+
+[NOTE.speaker]
+--
+* agenda which serves as a guiding path through each event
+* So, next to fixed date and location, you can expect the meetings to proceed in a certain way
+* A low-tech approach is used to incorporate community input
+--
+
+
+//[background-iframe="https://yourpart.eu/p/linuxaudio-cologne"]
+=== Agenda
+// https://www.flickr.com/photos/ania/
+image::https://c1.staticflickr.com/1/33/47216511_4a15d37728_o.jpg[background, size=cover]
+
+[.step]
+* welcome round
+* news
+* in the media
+* flea market
+* talks and demos
+* questions and answers
+
+[NOTE.speaker]
+--
+* In general, our meeting agenda includes...
+* framework which comes to live through community input
+--
+
+[%notitle]
+=== After agenda
+// https://www.flickr.com/photos/leehaywood/
+image::https://c1.staticflickr.com/5/4001/4204624980_18f57619eb_o.jpg[background, size=cover]
+
+After each meeting, we usually go to a pub nearby to socialize.
+
+[NOTE.speaker]
+--
+* Importance to me..
+--
+
+
+=== Tools
+// https://www.flickr.com/photos/99783447@N07/
+image::https://c1.staticflickr.com/6/5350/9433844116_3c5cb96d49_k.jpg[background, size=cover]
+//https://c1.staticflickr.com/6/5350/9433844116_d561a5bf7f_o.jpg
+
+[.step]
+* link:http://etherpad.org/[Etherpad] to create agenda, collect ideas, and create minutes
+* link:https://www.dokuwiki.org/[DokuWiki] for homepage and minutes archive
+
+[NOTE.speaker]
+--
+* Before: agenda template -> link:http://yourpart.eu/p/linuxaudio-cologne[etherpad]
+* Then: Community input / more stuff added during event
+* After: etherpad archived into wiki / reset to template
+* homepage: wiki page with mostly static information.
+--
+
+
+=== Physical space
+// https://www.flickr.com/photos/mumpfpuffel/
+image::https://c1.staticflickr.com/4/3268/3231065019_5046897880_o.jpg[background, size=cover]
+
+Fortunately, the meeting can take place on the premises of the Chaos Computer Club Cologne.
+
+[NOTE.speaker]
+--
+* CCCC is a local chapter of the well-known German hacker community.
+* The room is equipped with WiFi, a beamer, and a light and sound system.
+* How can we give back to CCC?
+--
+
+
+== Highlights
+// https://www.flickr.com/photos/fs999/
+image::https://c1.staticflickr.com/8/7390/10745351355_305a94e783_o.jpg[background, size=cover]
+//https://c1.staticflickr.com/7/6138/5953100136_01960101fb_o.jpg
+
+
+[.step]
+* November 2015, link:https://www.youtube.com/watch?v=dKw6AupjUMM[Talks by Louigi Verona]
+* November 2016, link:http://rust.cologne/2016/11/16/audio-meetup.html[Rust Audio Special]
+
+[NOTE.speaker]
+--
+* Now and then, the monthly meeting may focus on a single topic.
+* These meetings prove to be very popular.
+--
+
+
+== How we reach out to people
+// https://www.flickr.com/photos/siwiaszczyk/
+image::https://c1.staticflickr.com/8/7314/8735503902_bd705ac2a2_o.jpg[background, size=cover]
+
+[.step]
+* link:http://cologne.linuxaudio.org[website, window="_blank"]
+* link:https://www.facebook.com/groups/opensourceaudiocologne/[Facebook group]
+* link:http://www.meetup.com/Open-Source-Audio-Meeting-Cologne[Meetup group]
+* mailing list
+
+[NOTE.speaker]
+--
+* personal contacts are used to promote the events
+--
+
+
+== Future challenges
+// https://www.flickr.com/photos/sterlic/
+image::https://c1.staticflickr.com/3/2802/4458413554_6577bfb497_o.jpg[background, size=cover]
+
+=== How to reach a broader audience?
+// https://www.flickr.com/photos/edfilmfest/
+image::https://c1.staticflickr.com/6/5157/5859681596_86cd170bbc_o.jpg[background, size=cover]
+
+[.step]
+* university (media/audio/...)
+* start up community
+* musicians
+
+=== How to decrease the prominent gender gap in participation?
+// https://www.flickr.com/photos/okfde/
+image::https://c1.staticflickr.com/4/3921/15042471658_48b232fc88_k.jpg[background, size=cover]
+// https://c1.staticflickr.com/4/3921/15042471658_777665f7d4_o.jpg
+
+== Upcoming
+
+* link:http://sonoj.org/[Sonoj Convention, window="_blank"], 4th & 5th of November 2017
+
+[NOTE.speaker]
+--
+An open source audio weekend is planned for November 2017.
+--
+
+== The end
+image::https://cloud.githubusercontent.com/assets/1045984/26178827/50f10840-3b60-11e7-9519-cb1e122e7f4f.jpg[background, size=cover]
+
+
+=== Images brought to you by
+
+[%small]
+https://www.flickr.com/photos/john/
+https://www.flickr.com/photos/minidriver/
+https://www.flickr.com/photos/ania/
+https://www.flickr.com/photos/leehaywood/
+https://www.flickr.com/photos/99783447@N07/
+https://www.flickr.com/photos/mumpfpuffel/
+https://www.flickr.com/photos/fs999/
+https://www.flickr.com/photos/siwiaszczyk/
+https://www.flickr.com/photos/sterlic/
+https://www.flickr.com/photos/edfilmfest/
+https://www.flickr.com/photos/okfde/
